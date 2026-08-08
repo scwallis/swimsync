@@ -1,0 +1,12 @@
+mp3/
+podcast/
+ffmpeg_bin/
+*.log
+*.lock
+selected_path.txt
+__pycache__/
+.claude/
+.dropbox.device
+autorun.py.bak
+System Volume Information/
+$RECYCLE.BIN/
